@@ -26,28 +26,6 @@ This is a simple Rock-Paper-Scissors game implemented in Python. The game allows
 
 🐍 Python 3.x
 
-🚀 How to Run
-
-📥 Clone this repository:
-
-git clone https://github.com/yourusername/RPS_Game.git
-
-📂 Navigate to the project directory:
-
-cd RPS_Game
-
-▶️ Run the script:
-
-python RPS_Game.py
-
-🖥️ Example Output
-
-Welcome to the Rock-Paper-Scissors Game
-Kindly pick any one of the choices: ['Rock', 'Paper', 'Scissors']
-Enter Your Choice: Rock
-Your Choice : Rock, Computer Choice : Paper
-Paper covers Rock, Computer win!
-
 🔮 Future Improvements
 
 🖥️ Implement a GUI version using Tkinter or PyQt.
